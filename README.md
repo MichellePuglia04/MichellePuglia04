@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Michelle 
 
-<!--
-**MichellePuglia04/MichellePuglia04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education: Statistics / Data Analytics Background  
+Interest:  Data Analyst & Business Analyst roles  
+Based on the East Coast of the United States 
 
-Here are some ideas to get you started:
+## Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- R
+- Excel
+- Data Visualization
+- Statistical Analysis
+- Regression & Hypothesis Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Python | R | SQL | Tableau | Power BI | Excel | Jupyter Notebook | Git
+
+## Featured Projects
+- Info Coming Soon
+
+## Contact
+- LinkedIn: www.linkedin.com/in/michellepuglia
+- Email: michellepuglia04@gmail.com
